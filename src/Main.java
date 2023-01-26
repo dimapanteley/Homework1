@@ -89,7 +89,7 @@ public class Main {
         System.out.println("Всего работников в компании — "+sotrydniki+ " человек");
         sotrydniki = sotrydniki + 94;
         vremya= sotrydniki*8;
-        System.out.println("Если в компании работает " + sotrydniki+" человек, то всего " + vremya +" часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + sotrydniki+" человек, то всего " + vremya +" часов работы может быть поделено между сотрудниками.");
 
     }
 
